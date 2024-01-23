@@ -1,0 +1,21 @@
+body{
+    /*background: rgb(43, 41, 41);*/
+    background-image: url(../IMG/388907.jpg);
+    color: aliceblue;
+    height: 1000px;
+    background-size: cover;
+}
+#contenedor{
+    border: solid 2px;
+    width: 600px;
+    height: 200px;
+    margin: 400px auto;
+    padding: 10px;
+    /*background-color: aliceblue;*/
+    background-image: url(../IMG/stars_space_sky_116409_3840x2400.jpg); 
+    background-repeat: no-repeat;
+    background-position: 10px 10px 10px 10px;
+    background-size: cover;
+    background-attachment: fixed;
+    /*background: black url(../IMG/pngwing.com.png) no-repeat cover fixed;*/
+}
